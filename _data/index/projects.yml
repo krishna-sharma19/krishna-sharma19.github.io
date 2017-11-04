@@ -5,14 +5,14 @@
   i18n: jalpc
   gh_user: jarrekk
   repo: Comment Analyzer
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/analytics.jpeg
   desc: Comment-Analyzer is a project for processing comments using Natural Language processing for classifying comments as positive, negative and neutral. It uses python and nltk for classifying comments.
 
 - name: Website Monitoring Application
   i18n: cpython
   gh_user: python
   repo: cpython
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/monitoring.png
   desc: Website Monitoring app is an android application for monitoring different websites for updates. This application automates clicks and actions by user on a website and stores them.So the next time, if user wants to repeat the same actions on a webpage, he/she can do it in just a click of a button.
 
 - name: Data Reporting app 
@@ -26,21 +26,21 @@
   i18n: cpython
   gh_user: python
   repo: cpython
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/vision.jpeg
   desc: An android application for updating details of geographically distributed sites on a common server.Server maintains a database for sites to be repaired and analyses if sites are working properly.On the basis of parameters reported by onsite workers.
 
 - name: Climate Data Analysis
   i18n: cpython
   gh_user: python
   repo: cpython
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/Carbon.png
   desc: An android application for updating details of geographically distributed sites on a common server.Server maintains a database for sites to be repaired and analyses if sites are working properly.On the basis of parameters reported by onsite workers.
 
 - name: Computer Vision Coursework
   i18n: cpython
   gh_user: python
   repo: cpython
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/wordcloud.png
   desc: An android application for updating details of geographically distributed sites on a common server.Server maintains a database for sites to be repaired and analyses if sites are working properly.On the basis of parameters reported by onsite workers.
 
 - name: Data Reporting app 
