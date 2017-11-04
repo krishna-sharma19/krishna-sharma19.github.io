@@ -33,7 +33,7 @@
   i18n: cpython
   gh_user: python
   repo: cpython
-  img: /static/assets/img/landing/climate.jpg
+  img: /static/assets/img/landing/bigdata.jpg
   desc: An android application for updating details of geographically distributed sites on a common server.Server maintains a database for sites to be repaired and analyses if sites are working properly.On the basis of parameters reported by onsite workers.
 
 - name: Computer Vision Coursework
