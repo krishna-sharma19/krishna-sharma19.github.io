@@ -4,9 +4,9 @@
 - name: Jalpc
   i18n: jalpc
   gh_user: jarrekk
-  repo: Jalpc
+  repo: Comment Analyzer
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: Comment-Analyzer is a project for processing comments using Natural Language processing for classifying comments as positive, negative and neutral. It uses python and nltk for classifying comments.
 
 - name: Python
   i18n: cpython
