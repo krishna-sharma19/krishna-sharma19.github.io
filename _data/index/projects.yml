@@ -27,21 +27,36 @@
   gh_user: python
   repo: cpython
   img: /static/assets/img/landing/vision.jpg
-  desc: An android application for updating details of geographically distributed sites on a common server.Server maintains a database for sites to be repaired and analyses if sites are working properly.On the basis of parameters reported by onsite workers.
+  desc: Digit recognizer
 
 - name: Climate Data Analysis
   i18n: cpython
   gh_user: python
   repo: cpython
   img: /static/assets/img/landing/bigdata.jpg
-  desc: An android application for updating details of geographically distributed sites on a common server.Server maintains a database for sites to be repaired and analyses if sites are working properly.On the basis of parameters reported by onsite workers.
+  desc: Analyze large climate dataset (Global Daily Summary) to detect patterns.
 
 - name: Computer Vision Coursework
   i18n: cpython
   gh_user: python
   repo: cpython
   img: /static/assets/img/landing/wordcloud.png
-  desc: An android application for updating details of geographically distributed sites on a common server.Server maintains a database for sites to be repaired and analyses if sites are working properly.On the basis of parameters reported by onsite workers.
+  desc: Segmentation, Face Detection and Tracking, Image stitching
+
+- name: Pacman Project
+  i18n: cpython
+  gh_user: python
+  repo: cpython
+  img: /static/assets/img/landing/pac-man-pacman-mobile-game.png
+  desc: Segmentation, Face Detection and Tracking, Image stitching
+
+- name: Book selling and exchanging Platform
+  i18n: cpython
+  gh_user: python
+  repo: cpython
+  img: /static/assets/img/landing/20140508105531-share-01.jpg
+  desc: Segmentation, Face Detection and Tracking, Image stitching
+
 
 - name: Data Reporting app 
   i18n: google
