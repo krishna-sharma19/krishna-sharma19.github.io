@@ -22,6 +22,27 @@
   img: /static/assets/img/landing/python.png
   desc: An android application for updating details of geographically distributed sites on a common server.Server maintains a database for sites to be repaired and analyses if sites are working properly.On the basis of parameters reported by onsite workers.
 
+- name: Computer Vision Project
+  i18n: cpython
+  gh_user: python
+  repo: cpython
+  img: /static/assets/img/landing/python.png
+  desc: An android application for updating details of geographically distributed sites on a common server.Server maintains a database for sites to be repaired and analyses if sites are working properly.On the basis of parameters reported by onsite workers.
+
+- name: Climate Data Analysis
+  i18n: cpython
+  gh_user: python
+  repo: cpython
+  img: /static/assets/img/landing/python.png
+  desc: An android application for updating details of geographically distributed sites on a common server.Server maintains a database for sites to be repaired and analyses if sites are working properly.On the basis of parameters reported by onsite workers.
+
+- name: Computer Vision Coursework
+  i18n: cpython
+  gh_user: python
+  repo: cpython
+  img: /static/assets/img/landing/python.png
+  desc: An android application for updating details of geographically distributed sites on a common server.Server maintains a database for sites to be repaired and analyses if sites are working properly.On the basis of parameters reported by onsite workers.
+
 - name: Data Reporting app 
   i18n: google
   url: https://google.com
