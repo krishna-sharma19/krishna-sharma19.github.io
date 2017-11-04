@@ -27,7 +27,7 @@
   gh_user: python
   repo: cpython
   img: /static/assets/img/landing/vision.jpg
-  desc: Digit recognizer
+  desc: Digit recognizer. Server maintains a database for sites to be repaired and analyses if sites are working properly.On the basis of parameters reported by onsite workers.
 
 - name: Climate Data Analysis
   i18n: cpython
