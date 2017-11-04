@@ -2,9 +2,9 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Comment Analyzer
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+  i18n: Comment Analyzer
+  gh_user: Comment Analyzer
+  repo: Comment Analyzer
   img: /static/assets/img/landing/jekyll.png
   desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
