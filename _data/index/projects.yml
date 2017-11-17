@@ -1,6 +1,13 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+
+- name: Similar Location detector
+  gh_user: krishna-sharma19
+
+  img: /static/assets/img/landing/monitoring.png
+  desc: Found similar regions of Long Island by comparing satellite imagery.Implemented Locality Sensitive Hashing, Principal Component Analysis and dimensionality reduction.
+
 - name: Comment Analyzer
   gh_user: krishna-sharma19
   repo: Comment-Analyzer
@@ -15,49 +22,32 @@
 
 - name: Data Reporting app 
   i18n: cpython
-  gh_user: python
-  repo: cpython
+  gh_user: krishna-sharma19
+  repo: Site-Monitor
   img: /static/assets/img/landing/android.jpg
   desc: An android application for updating details of geographically distributed sites on a common server.Server maintains a database for sites to be repaired and analyses if sites are working properly.On the basis of parameters reported by onsite workers.
 
-- name: Computer Vision Project
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/vision.jpg
-  desc: Digit recognizer. Server maintains a database for sites to be repaired and analyses if sites are working properly.On the basis of parameters reported by onsite workers.This application automates clicks and actions by user on a website and stores them.So the next time, if user wants to repeat the same actions on a webpage, he/she can do it in just a click of a button.
 
 - name: Climate Data Analysis
   i18n: cpython
-  gh_user: python
-  repo: cpython
+  gh_user: krishna-sharma19
+
   img: /static/assets/img/landing/bigdata.jpg
   desc: Analyze large climate dataset (Global Daily Summary) to detect patterns.
 
 - name: Computer Vision Coursework
-  i18n: cpython
-  gh_user: python
-  repo: cpython
+  
+  gh_user: krishna-sharma19
+  repo: Computer-Vision-Assignments
   img: /static/assets/img/landing/wordcloud.png
   desc: Segmentation, Face Detection and Tracking, Image stitching
 
 - name: Pacman Project
-  i18n: cpython
-  gh_user: python
-  repo: cpython
   img: /static/assets/img/landing/pac-man-pacman-mobile-game.png
   desc: Segmentation, Face Detection and Tracking, Image stitching
 
 - name: Book selling and exchanging Platform
-  i18n: cpython
-  gh_user: python
-  repo: cpython
   img: /static/assets/img/landing/20140508105531-share-01.jpg
   desc: Segmentation, Face Detection and Tracking, Image stitching
 
 
-- name: Data Reporting app 
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: An android application for updating details of geographically distributed sites on a common server.Server maintains a database for sites to be repaired and analyses if sites are working properly.On the basis of parameters reported by onsite workers.
