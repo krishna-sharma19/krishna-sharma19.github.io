@@ -2,16 +2,14 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Comment Analyzer
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Comment Analyzer
+  gh_user: krishna-sharma19
+  repo: Comment-Analyzer
   img: /static/assets/img/landing/analytics.jpg
   desc: Comment-Analyzer is a project for processing comments using Natural Language processing for classifying comments as positive, negative and neutral. It uses python and nltk for classifying comments.
 
 - name: Website Monitoring Application
-  i18n: cpython
-  gh_user: python
-  repo: cpython
+  gh_user: krishna-sharma19
+  repo: Status-Monitor
   img: /static/assets/img/landing/monitoring.png
   desc: Website Monitoring app is an android application for monitoring different websites for updates. This application automates clicks and actions by user on a website and stores them.So the next time, if user wants to repeat the same actions on a webpage, he/she can do it in just a click of a button.
 
