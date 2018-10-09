@@ -46,13 +46,6 @@
   img: /static/assets/img/landing/bigdata.jpg
   desc: Analyze large climate dataset (Global Daily Summary) to detect patterns.
 
-- name: Computer Vision Coursework
-  i18n: cpython
-  gh_user: krishna-sharma19
-  repo: Computer-Vision-Assignments
-  img: /static/assets/img/landing/wordcloud.png
-  desc: Segmentation, Face Detection and Tracking, Image stitching
-
 - name: Pacman Project
   i18n: cpython
   gh_user: krishna-sharma19
