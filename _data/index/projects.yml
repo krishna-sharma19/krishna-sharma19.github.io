@@ -4,19 +4,19 @@
 - name: Parallel Computing Coursework and Project
   gh_user: hirenmayani
   repo: ParallelProgramming
-  img: /static/assets/img/landing/monitoring.png
+  img: /static/assets/img/landing/parallel.jpg
   desc: Parallel computing assignments like matrix multiplication, MST and MPI
 
 - name: Machine Learning
   gh_user: krishna-sharma19
   repo: MachinLearning
-  img: /static/assets/img/landing/monitoring.png
+  img: /static/assets/img/landing/ml.jpg
   desc: Machine Learning concepts
 
 - name: Similar Location detector
   gh_user: krishna-sharma19
   repo: Big-Data-Assignments
-  img: /static/assets/img/landing/monitoring.png
+  img: /static/assets/img/landing/geosimilar.jpg
   desc: Found similar regions of Long Island by comparing satellite imagery.Implemented Locality Sensitive Hashing, Principal Component Analysis and dimensionality reduction.
 
 - name: Comment Analyzer
@@ -59,6 +59,7 @@
   desc: Segmentation, Face Detection and Tracking, Image stitching
 
 - name: Book selling and exchanging Platform
+  i18n: cpython
   img: /static/assets/img/landing/20140508105531-share-01.jpg
   desc: exchange, sell and buy books
 
