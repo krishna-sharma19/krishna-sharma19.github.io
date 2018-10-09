@@ -28,8 +28,7 @@ author:  # change following line to your information.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I am a Graduate student at Stony Brook University and I recently completed my Summer internship with the SRE team at Google. 
-  Now I am looking for full time opportunities where I can learn and grow as an IT professional. 
+  desc: I am a Graduate student at Stony Brook University and I recently completed my Summer internship with the SRE team at Google.Now I am looking for full time opportunities where I can learn and grow as an IT professional. 
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
