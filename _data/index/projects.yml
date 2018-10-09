@@ -1,6 +1,18 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Length of Stay Predication
+  gh_user: hirenmayani
+  repo: ParallelProgramming
+  img: /static/assets/img/landing/los.jpg
+  desc: Advance project under the guidance of Prof Jonas Almeida, worked with the Biomedical department and Health Dataset to predict length of Stay of a patient using TensorFlow and deep learning.
+
+- name: Dockerizing data pipelines
+  gh_user: hirenmayani
+  repo: ParallelProgramming
+  img: /static/assets/img/landing/docker.jpg
+  desc: Advance project under the guidance of Prof Janos Hadgagos, worked with docker compose to synchronize multiple dockers whose data is coming from different databases like Vertica and MySQL. 
+
 - name: Parallel Computing Coursework and Project
   gh_user: hirenmayani
   repo: ParallelProgramming
