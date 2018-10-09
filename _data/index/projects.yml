@@ -55,10 +55,14 @@
 
 - name: Pacman Project
   i18n: cpython
+  gh_user: krishna-sharma19
+  repo: Computer-Vision-Assignments
   img: /static/assets/img/landing/pac-man-pacman-mobile-game.png
   desc: Segmentation, Face Detection and Tracking, Image stitching
 
 - name: Book selling and exchanging Platform
+  gh_user: krishna-sharma19
+  repo: Computer-Vision-Assignments
   i18n: cpython
   img: /static/assets/img/landing/20140508105531-share-01.jpg
   desc: exchange, sell and buy books
