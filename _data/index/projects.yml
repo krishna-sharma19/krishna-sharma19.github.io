@@ -29,7 +29,7 @@
   gh_user: krishna-sharma19
   repo: Status-Monitor
   img: /static/assets/img/landing/monitoring.png
-  desc: Website Monitoring app is an android application for monitoring different websites for updates. This application automates clicks and actions by user on a website and stores them.So the next time, if user wants to repeat the same actions on a webpage, he/she can do it in just a click of a button.
+  desc: Website Monitoring app is an android application for monitoring different websites for updates. This application automates clicks and actions by user on a website and stores them. This application performs automated clicks and autofills forms.
 
 - name: Data Reporting app 
   i18n: cpython
