@@ -7,7 +7,18 @@
     detail: I am final year Computer Science Graduate student at Stony Brook University and my current GPA is 3.54
     i18n: company_a_desc
   date:
-    detail: Aug. 2017
+    detail: Aug. 2017 - Dec. 2018
+    i18n: company_a_date
+
+- name:
+    detail: Google
+    img: /static/assets/img/landing/android.jpg
+    i18n: company_a
+  desc:
+    detail: Summer Internship at Google
+    i18n: company_a_desc
+  date:
+    detail: May 2018 - Aug. 2018
     i18n: company_a_date
   
 - name:
