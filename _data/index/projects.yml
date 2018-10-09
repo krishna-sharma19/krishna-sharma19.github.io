@@ -66,14 +66,10 @@
 
 - name: Pacman Project
   i18n: cpython
-  gh_user: krishna-sharma19
-  repo: Computer-Vision-Assignments
   img: /static/assets/img/landing/pac-man-pacman-mobile-game.png
-  desc: Segmentation, Face Detection and Tracking, Image stitching
+  desc: Write algorithms like BFS, DFS, Astar search, alpha beta pruning and Naive Bayes in <a href="http://ai.berkeley.edu/project_overview.html"> Pacman </a> setting to find food 
 
 - name: Book selling and exchanging Platform
-  gh_user: krishna-sharma19
-  repo: Computer-Vision-Assignments
   i18n: cpython
   img: /static/assets/img/landing/20140508105531-share-01.jpg
   desc: exchange, sell and buy books
