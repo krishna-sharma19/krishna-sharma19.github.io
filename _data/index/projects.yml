@@ -21,7 +21,7 @@
 
 - name: Machine Learning
   gh_user: krishna-sharma19
-  repo: MachinLearning
+  repo: MachineLearning
   img: /static/assets/img/landing/ml.jpg
   desc: Machine Learning concepts
 
